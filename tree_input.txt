@@ -1,0 +1,13 @@
+janus_pro_multimodal_training/
+├── dataset/
+│   ├── images/
+│   │   ├── running_person.jpg
+│   │   ├── argument_at_gate.jpg
+│   │   └── lost_person.jpg
+│   └── train_multimodal.json
+├── scripts/
+│   ├── train.py
+│   └── test_model.py
+├── config.yaml
+├── requirements.txt
+└── README.md
