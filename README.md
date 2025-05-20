@@ -10,6 +10,10 @@ A simple 🐍 Python utility that recreates a 🗂️ folder and 📄 file struc
 - 💡 Great for scaffolding and prototyping
 
 
+## 🔧 Requirements
+- Python 3.x 🐍 
+
+
 ## 🛠 Installation
 
 - Open CMD 🖥️
@@ -34,12 +38,6 @@ cd 'Tree-structure-to-Filesystem'
    ```bash
    python App.py
    ```
-
-
-
-## 🔧 Requirements
-- Python 3.x 🐍 
-
 
 ## 📝 License
 This project is licensed under the **License**. See the [LICENSE.txt](LICENSE.txt) ⚖️ file for details.
