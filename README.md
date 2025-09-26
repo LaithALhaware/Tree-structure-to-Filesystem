@@ -1,4 +1,7 @@
 # Tree-structure-to-Filesystem
+
+![Alt Text](Main.png)
+
 A simple 🐍 Python utility that recreates a 🗂️ folder and 📄 file structure from a visual tree format (like the tree 🌳 command output).
 
 
